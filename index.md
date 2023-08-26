@@ -14,9 +14,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
+Favorite things about CS193
+- Easy to follow instructions
+- Good TAs
 
 1. Numbered
 2. List
